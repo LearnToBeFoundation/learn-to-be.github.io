@@ -29,10 +29,14 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
-      - name: Install Pandoc
+      - name: Install Pandoc and pandoc-sidenote
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc
+          # Install pandoc-sidenote filter
+          wget https://github.com/jez/pandoc-sidenote/releases/latest/download/pandoc-sidenote-Linux
+          chmod +x pandoc-sidenote-Linux
+          sudo mv pandoc-sidenote-Linux /usr/local/bin/pandoc-sidenote
 
       - name: Setup Pages
         id: pages
