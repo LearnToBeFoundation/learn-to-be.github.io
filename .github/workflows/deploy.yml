@@ -33,10 +33,12 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc
-          # Install pandoc-sidenote filter
-          wget https://github.com/jez/pandoc-sidenote/releases/latest/download/pandoc-sidenote-Linux
-          chmod +x pandoc-sidenote-Linux
-          sudo mv pandoc-sidenote-Linux /usr/local/bin/pandoc-sidenote
+          # Install Haskell Stack for building pandoc-sidenote
+          curl -sSL https://get.haskellstack.org/ | sh
+          # Install pandoc-sidenote using cabal
+          sudo apt-get install -y cabal-install
+          cabal update
+          cabal install pandoc-sidenote --install-method=copy --installdir=/usr/local/bin
 
       - name: Setup Pages
         id: pages
