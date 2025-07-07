@@ -1,2 +1,5 @@
 .idea
 .bundle
+_site
+.jekyll-cache
+.jekyll-metadata
