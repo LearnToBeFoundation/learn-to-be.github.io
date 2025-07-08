@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "The Best Tools & Resources For Online Tutoring"
 date: 2024-11-01 18:50:11
 categories: [tutoring]

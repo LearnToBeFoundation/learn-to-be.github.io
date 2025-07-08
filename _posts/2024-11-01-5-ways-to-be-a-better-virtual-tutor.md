@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "5 Ways to be a Better Virtual Tutor"
 date: 2024-11-01 18:50:11
 categories: [tutoring]

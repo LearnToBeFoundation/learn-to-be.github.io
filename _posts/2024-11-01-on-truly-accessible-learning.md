@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "On Truly Accessible Learning"
 date: 2024-11-01 18:50:11
 categories: [education]

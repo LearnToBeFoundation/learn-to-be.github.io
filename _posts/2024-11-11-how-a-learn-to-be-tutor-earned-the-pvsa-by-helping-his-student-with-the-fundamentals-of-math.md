@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "How a LTB tutor earned the PVSA tutoring math"
 date: 2024-11-11 19:42:25
 categories: [pvsa]

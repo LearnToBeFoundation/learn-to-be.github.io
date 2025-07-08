@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "How a LTB tutor empowered sisters & earned the PVSA"
 date: 2024-11-11 19:42:25
 categories: [pvsa]

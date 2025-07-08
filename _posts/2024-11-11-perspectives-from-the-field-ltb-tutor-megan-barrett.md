@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "Field Perspectives: LTB tutor Megan Barrett"
 date: 2024-11-11 19:26:45
 categories: [case-studies]

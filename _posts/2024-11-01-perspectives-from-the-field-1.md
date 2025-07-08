@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "Perspectives from LTB tutor Natasha Batalha"
 date: 2024-11-01 18:50:11
 categories: [case-studies]

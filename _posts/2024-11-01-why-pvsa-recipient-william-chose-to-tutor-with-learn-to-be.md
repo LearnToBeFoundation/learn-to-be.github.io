@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "Why PVSA recipient William chose Learn To Be"
 date: 2024-11-01 18:50:11
 categories: [pvsa]

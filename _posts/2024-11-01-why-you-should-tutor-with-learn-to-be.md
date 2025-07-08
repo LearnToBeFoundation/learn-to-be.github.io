@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "Why you should tutor with Learn To Be"
 date: 2024-11-01 18:50:11
 categories: [tutoring]

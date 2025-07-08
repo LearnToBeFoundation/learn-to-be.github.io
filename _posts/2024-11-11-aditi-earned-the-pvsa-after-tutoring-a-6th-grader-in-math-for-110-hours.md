@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "Aditi earned the PVSA after tutoring for 110 hours"
 date: 2024-11-11 19:42:25
 categories: [pvsa]

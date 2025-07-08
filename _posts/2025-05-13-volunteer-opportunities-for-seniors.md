@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "Volunteer Opportunities for Seniors and Retirees"
 date: 2025-05-13 16:44:22
 categories: [volunteering]

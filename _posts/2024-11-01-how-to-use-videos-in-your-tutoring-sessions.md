@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "How to Use Videos in Your Tutoring Sessions"
 date: 2024-11-01 18:50:11
 categories: [uncategorized]

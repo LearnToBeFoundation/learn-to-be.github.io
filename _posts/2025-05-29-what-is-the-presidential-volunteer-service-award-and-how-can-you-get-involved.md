@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "What is the PVSA and How Can You Get Involved?"
 date: 2025-05-29 16:58:58
 categories: [pvsa]

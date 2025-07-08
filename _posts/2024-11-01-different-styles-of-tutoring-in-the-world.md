@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "Different Styles of Tutoring in the World"
 date: 2024-11-01 18:50:11
 categories: [tutoring]

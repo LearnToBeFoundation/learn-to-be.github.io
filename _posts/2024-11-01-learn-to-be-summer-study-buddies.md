@@ -1,4 +1,6 @@
 ---
+layout: post
+math: true
 title: "Learn To Be Summer Study Buddies"
 date: 2024-11-01 18:50:11
 categories: [education]
