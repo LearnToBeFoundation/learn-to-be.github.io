@@ -1,4 +1,5 @@
 ---
+
 layout: post
 math: true
 title: "Aditi earned the PVSA after tutoring for 110 hours"
@@ -15,11 +16,13 @@ My favorite moments tutoring with my students are seeing their faces light up wh
 
 ‍
 
+
 ## What kind of specific impact has your tutoring had on your student?
 
 My student's grades have improved, taking them from a C+ to a B+.
 
 ‍
+
 
 ## Why did you decide to earn the Presidential Volunteer Service Award (PVSA) through Learn To Be over other organizations?
 
@@ -27,10 +30,11 @@ Learn to Be has inspired me to tutor kids who don't have as many opportunities. 
 
 ‍
 
+
 ## How does earning the PVSA help you in your future?
 
 Earning the PVSA can help me in the future because I can showcase my dedication to volunteering through this great extracurricular activity that gives back to communities around the US.
 
 ‍
 
-Interested in earning the PVSA through Learn To Be? Consider applying to be a tutor by visiting https://learntobe.org/apply. Click here to learn more about the PVSA and how you can earn it through Learn To Be. Volunteering with Learn To Be means providing free, online tutoring to students who need it most. We hope you'll join us.
+*Interested in earning the PVSA through Learn To Be? Consider applying to be a tutor by visiting *[*https://learntobe.org/apply*](https://www.learntobe.org/apply)*. Click *[*here*](https://www.learntobe.org/blog/what-is-the-presidential-volunteer-service-award-and-how-can-you-get-involved)* to learn more about the PVSA and how you can earn it through Learn To Be. Volunteering with Learn To Be means providing free, online tutoring to students who need it most. We hope you'll join us.*

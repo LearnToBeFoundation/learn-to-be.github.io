@@ -1,4 +1,5 @@
 ---
+
 layout: post
 math: true
 title: "How a LTB tutor improved math scores 50+ points"
@@ -13,17 +14,21 @@ toc: true
 
 270
 
+
 ## What grade levels have you tutored in?
 
 7 years old, 2nd grade
+
 
 ## What subject(s) have you tutored?
 
 Primarily math, some science, and history as well.
 
+
 ## Tell us about your favorite moment tutoring with one of your students.
 
 When I started tutoring one of my students, they were at the 39th percentile for their math benchmark, which is surprisingly low. After around four months of continuous, dedicated tutoring, they ended up having to take another math benchmark. While, naturally, they and their mother were very nervous about their score, they ended up getting placed in the 91st percentile. This gain of around 52% was not only an impressive academic feat but also an incredible self-confidence booster. Seeing this student jump up and down in joy and their mother crying tears of happiness, gratitude, and pride was a life-changing moment for me.
+
 
 ## What kind of impact has Learn To Be tutoring had on you?
 
@@ -31,6 +36,6 @@ Learn To Be has truly been a life-changing experience in the sense that it allow
 
 ‍
 
-Interested in tutoring through Learn To Be? Consider applying to be a tutor by visiting https://learntobe.org/apply. Volunteering with Learn To Be means providing free, online tutoring to students who need it most. We hope you'll join us.
+*Interested in tutoring through Learn To Be? Consider applying to be a tutor by visiting* [*https://learntobe.org/apply*](https://www.learntobe.org/apply)*. Volunteering with Learn To Be means providing free, online tutoring to students who need it most. We hope you'll join us.*
 
 ‍

@@ -1,4 +1,5 @@
 ---
+
 layout: post
 math: true
 title: "The Best Tools & Resources For Online Tutoring"
@@ -13,11 +14,12 @@ Over the past few years, we have seen an increase in the importance of online ed
 
 ‍
 
-While tutoring online is more accessible than ever, it also comes with some new challenges. Without the in-person interaction that traditional tutoring offers, it can be difficult to keep students engaged and motivated. Luckily there are a number of tools that can make connecting and working with students much easier. At Learn To Be, we've been tutoring students around the country virtually for years. Through our experience, we have found a few of the best online tutoring tools that can help level up your tutoring sessions.
+While tutoring online is more accessible than ever, it also comes with some new challenges. Without the in-person interaction that traditional tutoring offers, it can be difficult to keep students engaged and motivated. Luckily there are a number of tools that can make connecting and working with students much easier. At [Learn To Be](https://www.learntobe.org/), we've been tutoring students around the country virtually for years. Through our experience, we have found a few of the best online tutoring tools that can help level up your tutoring sessions.
 
 ‍
 
-## Math Resource: The Math Learning Center
+
+#### Math Resource: [The Math Learning Center](https://www.mathlearningcenter.org/curriculum/free)
 
 ‍
 
@@ -33,7 +35,8 @@ The Math Learning Center provides a collection of learning tools to help tutors 
 
 ‍
 
-## Reading Resource: Funbrain
+
+#### Reading Resource: [Funbrain](https://www.funbrain.com)
 
 ‍
 
@@ -43,11 +46,12 @@ Funbrain features a variety of interactive books, games, and videos that help ch
 
 - A variety of games and activities designed to improve reading skills, including spelling games and word puzzles
 
-- Printable worksheets for tutors to use for practice during a session
+- Printable worksheets for tutors to use for practice during a session 
 
 ‍
 
-## Writing Resources: Varsity Tutors
+
+#### Writing Resources: [Varsity Tutors](https://www.varsitytutors.com/englishteacher/writing)
 
 ‍
 
@@ -55,7 +59,7 @@ Varsity Tutors is an online education platform that offers personalized learning
 
 ‍
 
-- A comprehensive writing curriculum that covers a range of topics, from basic grammar and sentence structure to advanced writing techniques
+- A comprehensive writing curriculum that covers a range of topics, from basic grammar and sentence structure to advanced writing techniques 
 
 - Engaging and interactive writing exercises and activities that are designed to help students develop and practice their writing skills
 
@@ -63,7 +67,8 @@ Varsity Tutors is an online education platform that offers personalized learning
 
 ‍
 
-## Worksheets: Education.com‍
+
+#### Worksheets: [Education.com](https://www.education.com/resources/)‍
 
 Education.com is an educational website that provides a wide range of resources for students and tutors. The website provides a wide range of educational resources, including lesson plans, worksheets, games, and activities that are designed to engage students and promote learning. Our favorite features of the website include:
 
@@ -75,7 +80,8 @@ Education.com is an educational website that provides a wide range of resources 
 
 - Printable worksheets for math, science, language arts, social studies, and more!
 
-## Quizzes: Quizlet
+
+#### **Quizzes: **[**Quizlet**](https://quizlet.com/)
 
 ‍
 
@@ -91,7 +97,8 @@ Quizlet is the go-to website for digital flashcards. The website gives you acces
 
 ‍
 
-## Teaching Materials: Canva
+
+#### Teaching Materials: [Canva](https://www.canva.com/)
 
 ‍
 
@@ -109,7 +116,8 @@ Canva is an essential tool for creating fun presentations, worksheets, handouts,
 
 ‍
 
-## Virtual Whiteboard: Ziteboard
+
+#### Virtual Whiteboard: [Ziteboard](https://ziteboard.com/)
 
 ‍
 
@@ -125,11 +133,12 @@ Ziteboard is a virtual whiteboard you can use to draw ideas and display notes du
 
 ‍
 
-## First Session Checklist: Learn To Be
+
+#### First Session Checklist: [Learn To Be](https://uploads-ssl.webflow.com/62791b1d2a05d0e32e288492/6424b9f8da85b7dd40bce30e_First%20Session%20Checklist-%20for%20tutors.pdf)
 
 ‍
 
-The first tutoring session with a new student can sometimes be a little nerve-wracking. If you don't know where to start, what to do, or what to ask in the first session, check out our First Session Checklist. In this Learn To Be resource you'll find a list of the most important topics to cover including:
+The first tutoring session with a new student can sometimes be a little nerve-wracking. If you don't know where to start, what to do, or what to ask in the first session, check out our [First Session Checklist](https://uploads-ssl.webflow.com/62791b1d2a05d0e32e288492/6424b9f8da85b7dd40bce30e_First%20Session%20Checklist-%20for%20tutors.pdf). In this Learn To Be resource you'll find a list of the most important topics to cover including:
 
 ‍
 
@@ -137,12 +146,12 @@ The first tutoring session with a new student can sometimes be a little nerve-wr
 
 - Strategies to understand your student’s goals and objectives
 
-- Icebreaker questions and activities to get to know your student
+- Icebreaker questions and activities to get to know your student 
 
-- A team agreement that sets expectations for your tutoring sessions
+- A team agreement that sets expectations for your tutoring sessions 
 
 ‍
 
 As the world continues to shift towards a more digital future, online tutoring is likely to become an even more important profession. By utilizing these resources, you can create more engaging and effective lessons, connect more meaningfully with your students, and track progress more accurately. Our tutors can tell you that having the right tools and resources to succeed is essential. So, take advantage of these tools and elevate your online teaching game to set your students up for success.
 
-Looking for new online tutoring opportunities? Apply to join our team of Learn To Be tutors!
+Looking for new online tutoring opportunities? [Apply](https://www.learntobe.org/apply) to join our team of Learn To Be tutors!
