@@ -19,7 +19,7 @@ Virtual tutoring has become increasingly important, especially during the COVID-
 ‍
 
 
-#### Volunteering Near Me 
+## Volunteering Near Me 
 
 ‍
 
@@ -32,7 +32,7 @@ All of these problems can be avoided by becoming a virtual tutor. Online communi
 ‍
 
 
-#### Community Service Hours That Make an Impact
+## Community Service Hours That Make an Impact
 
 ‍
 
@@ -41,7 +41,7 @@ Whether you are skilled in science, passionate about poetry, or moved by math, y
 ‍
 
 
-#### How Do I Become an Online Tutor?
+## How Do I Become an Online Tutor?
 
 ‍
 

@@ -27,7 +27,7 @@ This post will walk you through why it’s OK to use videos in your tutoring ses
 - **Step-by-Step Examples:** I’ll show you some specific examples of how I’ve used videos in my lessons with students.
 
 
-#### Engaging Students While Watching Videos
+## Engaging Students While Watching Videos
 
 We all know that videos are a great tool to support learning, but in order to gain maximum benefit they need to be used in the right way. The key is engagement. From the Covid-19 Pandemic we all know that zoning out during online learning is effortless, but when you are engaged in learning your attention remains. So how do you engage your student while watching a video?
 
@@ -42,7 +42,7 @@ Just some ideas include:
 The reality is that every student learns differently and videos are not effective for everyone. The best way to determine if this is the right way for your student to learn is through the use of progress checks. After videos, use worksheets to confirm your students’ understanding. And don’t forget the simplest way to determine if it’s the right fit — ask! If your student is not enjoying the use of videos in your sessions, they should let you know!
 
 
-#### **Where to Find Videos to Use with your Student:**
+## **Where to Find Videos to Use with your Student:**
 
 Here are some of my favorite websites where you can find more videos to use with your student:
 
@@ -55,7 +55,7 @@ Here are some of my favorite websites where you can find more videos to use with
 ‍
 
 
-#### Step-by-Step Examples of How to Incorporate Videos in your Tutoring Sessions
+## Step-by-Step Examples of How to Incorporate Videos in your Tutoring Sessions
 
 ‍
 
@@ -88,7 +88,7 @@ Here are some of my favorite websites where you can find more videos to use with
 ‍
 
 
-#### Conclusion
+## Conclusion
 
 And there you have it! Using videos in your tutoring sessions is definitely NOT cheating! If fact, I’d encourage it :)
 

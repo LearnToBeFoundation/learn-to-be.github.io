@@ -25,7 +25,7 @@ Regardless of whether you choose to implement some or all of my suggestions, mak
 ‍
 
 
-#### BEFORE THE SESSION:1. Get to Know your Student through their Parent/Guardian (and maybe even their teacher!)
+## BEFORE THE SESSION:1. Get to Know your Student through their Parent/Guardian (and maybe even their teacher!)
 
 The best way to learn about your new student’s personality and tutoring needs is to speak to the people in their life every day; namely, a parent or guardian. Having a phone call or online meeting will enable you to 1) ask all of your questions and 2) start forming a relationship with your student’s family, both of which will be invaluable to you as you continue on in your tutoring journey. If you’re not sure what to discuss, [here are some examples](https://help.learntobe.org/article/147-parentquestions) of useful introductory questions to ask:
 
@@ -48,7 +48,7 @@ A huge purpose of the first session is to help your student feel comfortable, an
 ‍
 
 
-#### DURING THE SESSION:1. Play icebreaker games!
+## DURING THE SESSION:1. Play icebreaker games!
 
 You should set aside a few minutes every single week to simply chat with your student, but — particularly if they’re on the younger side — they may feel shy about speaking when they’re just getting to know you. An [icebreaker game](https://help.learntobe.org/article/146-icebreakers)can never hurt to break the ice, so choose one that can be implemented virtually and make it one of the first activities that you complete with your student!
 

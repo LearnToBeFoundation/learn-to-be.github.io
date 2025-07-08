@@ -9,7 +9,6 @@ author: Dan Solt
 excerpt: "Looking to improve your online tutoring? From virtual whiteboards to interactive presentations, these resources make your lessons engaging and effective."
 toc: true
 ---
-
 Over the past few years, we have seen an increase in the importance of online education. Online schooling and tutoring have made it possible for students who live around the country to stay on track. Virtual tutoring has allowed people to offer their time and skills to help kids who need it the most.
 
 ‍
@@ -19,7 +18,7 @@ While tutoring online is more accessible than ever, it also comes with some new 
 ‍
 
 
-#### Math Resource: [The Math Learning Center](https://www.mathlearningcenter.org/curriculum/free)
+## Math Resource: [The Math Learning Center](https://www.mathlearningcenter.org/curriculum/free)
 
 ‍
 
@@ -36,7 +35,7 @@ The Math Learning Center provides a collection of learning tools to help tutors 
 ‍
 
 
-#### Reading Resource: [Funbrain](https://www.funbrain.com)
+## Reading Resource: [Funbrain](https://www.funbrain.com)
 
 ‍
 
@@ -51,7 +50,7 @@ Funbrain features a variety of interactive books, games, and videos that help ch
 ‍
 
 
-#### Writing Resources: [Varsity Tutors](https://www.varsitytutors.com/englishteacher/writing)
+## Writing Resources: [Varsity Tutors](https://www.varsitytutors.com/englishteacher/writing)
 
 ‍
 
@@ -68,7 +67,7 @@ Varsity Tutors is an online education platform that offers personalized learning
 ‍
 
 
-#### Worksheets: [Education.com](https://www.education.com/resources/)‍
+## Worksheets: [Education.com](https://www.education.com/resources/)‍
 
 Education.com is an educational website that provides a wide range of resources for students and tutors. The website provides a wide range of educational resources, including lesson plans, worksheets, games, and activities that are designed to engage students and promote learning. Our favorite features of the website include:
 
@@ -81,7 +80,7 @@ Education.com is an educational website that provides a wide range of resources 
 - Printable worksheets for math, science, language arts, social studies, and more!
 
 
-#### **Quizzes: **[**Quizlet**](https://quizlet.com/)
+## **Quizzes: **[**Quizlet**](https://quizlet.com/)
 
 ‍
 
@@ -98,7 +97,7 @@ Quizlet is the go-to website for digital flashcards. The website gives you acces
 ‍
 
 
-#### Teaching Materials: [Canva](https://www.canva.com/)
+## Teaching Materials: [Canva](https://www.canva.com/)
 
 ‍
 
@@ -117,7 +116,7 @@ Canva is an essential tool for creating fun presentations, worksheets, handouts,
 ‍
 
 
-#### Virtual Whiteboard: [Ziteboard](https://ziteboard.com/)
+## Virtual Whiteboard: [Ziteboard](https://ziteboard.com/)
 
 ‍
 
@@ -134,7 +133,7 @@ Ziteboard is a virtual whiteboard you can use to draw ideas and display notes du
 ‍
 
 
-#### First Session Checklist: [Learn To Be](https://uploads-ssl.webflow.com/62791b1d2a05d0e32e288492/6424b9f8da85b7dd40bce30e_First%20Session%20Checklist-%20for%20tutors.pdf)
+## First Session Checklist: [Learn To Be](https://uploads-ssl.webflow.com/62791b1d2a05d0e32e288492/6424b9f8da85b7dd40bce30e_First%20Session%20Checklist-%20for%20tutors.pdf)
 
 ‍
 

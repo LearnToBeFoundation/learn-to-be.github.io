@@ -15,7 +15,7 @@ As a tutor, it's important to know that everyone learns differently. So, you sho
 ‍
 
 
-#### Visual Learning
+## Visual Learning
 
 Visual learning involves the use of visual aids to help students grasp complex ideas. This is ideal for students who prefer learning via visual mediums. To adapt to this learning style, use mind maps, color-coding, and videos in your lessons. More innovative techniques include augmented reality (AR) and virtual reality (VR) simulations.
 
@@ -54,7 +54,7 @@ How to best teach a visual learner:
 ‍
 
 
-#### Auditory Learning
+## Auditory Learning
 
 Auditory learning is all about presenting information through sound. This is suitable for students who prefer learning via auditory mediums. To adapt to this learning style, use a mix of lectures, audiobooks, and podcasts. Additionally, encourage students to ask questions and discuss ideas.
 
@@ -93,7 +93,7 @@ How to create the best environment for an auditory learner:
 ‍
 
 
-#### Physical Learning
+## Physical Learning
 
 Physical learning involves activities that engage a student's sense of touch and movement. This is great for students who learn best by doing. To adapt to this learning style, design projects that encourage students to explore concepts via movement and touch. These can include building models, experimenting and using everyday objects to illustrate concepts.
 
@@ -130,7 +130,7 @@ How to teach a physical learner:
 ‍
 
 
-#### Social Learning
+## Social Learning
 
 Social learning involves learning with other people. This is perfect for students thrive in group settings. To adapt to this learning style, include collaborative activities in your lessons. These can include ice-breaking activities, peer review sessions, and group presentations.
 
@@ -169,7 +169,7 @@ Social learning techniques:
 ‍
 
 
-#### Solitary Learning
+## Solitary Learning
 
 Solitary learning involves independent study and self-reflection. This is ideal for students who like to study by themselves, at their own pace. To adapt to this learning style, give students things to work on alone and help them when needed. Encourage them to set their own goals and track their progress. Maintain a consistent line of support whilst also respecting their need for independence.
 
@@ -208,7 +208,7 @@ How to tutor a solitary learner:
 ‍
 
 
-#### Logical Learning
+## Logical Learning
 
 Logical learning involves learning by thinking about how things work together. This includes patterns, sequences and relationships. This is perfect for students who excel in critical thinking and problem-solving. To adapt to this learning style, show students how to break complex problems into smaller, more manageable steps. Encourage students to develop hypotheses, test theories, and analyze results. In an online space, you can use fun activities, like games and online puzzles, to help with critical thinking and problem solving.
 
@@ -245,7 +245,7 @@ How to optimize for logical learning:
 - Encourage collaboration among your students
 
 
-#### Wrapping it up!
+## Wrapping it up!
 
 In conclusion, understanding and implementing various student learning styles is vital to being an effective tutor. By recognizing the pros and cons of each style, you can create a more inclusive and adaptive learning environment, helping your students flourish and succeed. So, don't be afraid to mix it up and explore new tutoring methods – your students will thank you!Unlock a Child's Potential: Become a Learn To Be Tutor Today!
 
