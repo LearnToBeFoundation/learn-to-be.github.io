@@ -50,9 +50,9 @@ A huge purpose of the first session is to help your student feel comfortable, an
 
 ## DURING THE SESSION:1. Play icebreaker games!
 
-You should set aside a few minutes every single week to simply chat with your student, but — particularly if they’re on the younger side — they may feel shy about speaking when they’re just getting to know you. An [icebreaker game](https://help.learntobe.org/article/146-icebreakers)can never hurt to break the ice, so choose one that can be implemented virtually and make it one of the first activities that you complete with your student!
+You should set aside a few minutes every single week to simply chat with your student, but — particularly if they’re on the younger side — they may feel shy about speaking when they’re just getting to know you. An [icebreaker game](https://help.learntobe.org/article/146-icebreakers) can never hurt to break the ice, so choose one that can be implemented virtually and make it one of the first activities that you complete with your student!
 
-**Charades, tic-tac-toe, 20 questions, or Pictionary** can all make for great introductory games to get you and your student laughing and interacting. For older students, or students who are naturally more extraverted, you might also try including some [icebreaker questions](https://help.learntobe.org/article/31-studentquestions)in your session, asking them about their friends, hobbies, learning styles…and anything else that pops up! Here are some ideas for conversation starters:
+**Charades, tic-tac-toe, 20 questions, or Pictionary** can all make for great introductory games to get you and your student laughing and interacting. For older students, or students who are naturally more extraverted, you might also try including some [icebreaker questions](https://help.learntobe.org/article/31-studentquestions) in your session, asking them about their friends, hobbies, learning styles…and anything else that pops up! Here are some ideas for conversation starters:
 
 - What is one fun fact about yourself that people are always be surprised to hear?
 

@@ -15,7 +15,7 @@ toc: true
 
 The Presidential Volunteer Service Award (PVSA) recognizes volunteers that are committed to helping others. Here at Learn To Be, we pride ourselves on being a PVSA Certifying Organization. Tutoring with us is one of the easiest ways to help those in need and earn the PVSA.
 
-Since 2003, the PVSA has been celebrating volunteers all across the United States. The award enables Certifying Organizations (like[Learn To Be](https://www.learntobe.org/apply)!) to reward volunteers for their commitment and dedication to serving their community. In the past, Learn To Be tutors have put this volunteer service award on scholarship applications, college applications, medical school applications, and job resumes.
+Since 2003, the PVSA has been celebrating volunteers all across the United States. The award enables Certifying Organizations (like [Learn To Be](https://www.learntobe.org/apply)!) to reward volunteers for their commitment and dedication to serving their community. In the past, Learn To Be tutors have put this volunteer service award on scholarship applications, college applications, medical school applications, and job resumes.
 
 
 ## What are the Presidential Volunteer Service Award Requirements?

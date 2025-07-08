@@ -16,7 +16,7 @@ toc: true
 
 Have you ever been frustrated by virtual tutoring? Maybe you weren’t sure how to find the best online resources? Or maybe you struggled to keep your student engaged through a computer screen?
 
-It’s no surprise that virtual tutoring can be challenging. There are often tech-related issues and it can take longer to build a relationship with your student. But the virtual space allows us to connect and learn from others who may be a few miles away or on the other side of the country. While it may take some practice, virtual tutoring has TONs of advantages. Volunteering as a tutor with [**Learn To Be**](https://www.learntobe.org)for the last 2 years has taught me a lot about online learning, and I’m excited to share what I’ve discovered!
+It’s no surprise that virtual tutoring can be challenging. There are often tech-related issues and it can take longer to build a relationship with your student. But the virtual space allows us to connect and learn from others who may be a few miles away or on the other side of the country. While it may take some practice, virtual tutoring has TONs of advantages. Volunteering as a tutor with [**Learn To Be**](https://www.learntobe.org) for the last 2 years has taught me a lot about online learning, and I’m excited to share what I’ve discovered!
 
 **Table of Contents:**
 
