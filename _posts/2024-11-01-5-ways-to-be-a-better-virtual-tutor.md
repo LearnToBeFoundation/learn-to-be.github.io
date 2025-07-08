@@ -9,10 +9,10 @@ author: Learn To Be
 excerpt: "How to utilize Zoom and other online classrooms to improve your tutoring"
 toc: true
 ---
-
 *This is part of a series of blogs written by Learn To Be’s Junior Board- a group of high achieving high school students.*
 
-Photo by John Schnobrich on Unsplash
+![Aerial view of friends pointing at a laptop screen](https://cdn.prod.website-files.com/6591cfa135e450f1bb1af9c9/6591cfa135e450f1bb1afbad_632a01a9ec93a042f3172300_0*rD01WO_3YvRtPs1B.jpeg)
+*Photo by John Schnobrich on Unsplash*
 
 Have you ever been frustrated by virtual tutoring? Maybe you weren’t sure how to find the best online resources? Or maybe you struggled to keep your student engaged through a computer screen?
 
@@ -49,11 +49,13 @@ Here are two I love:
 
 Both Libby and Overdrive are quite similar but there are a few key differences. You sign into both of them with your library card so any books you borrow on Libby will show up on Overdrive and vice versa.
 
-Libby
+![library webpage](https://cdn.prod.website-files.com/6591cfa135e450f1bb1af9c9/6591cfa135e450f1bb1afbaf_632a01a9c9f20b0ae80d962c_1*51M0R2uao-rrCK7ZRCCT3Q.png)
+*Libby*
 
 As for differences, I prefer Libby for in-session tutoring. It has a great interface with tools to annotate and looks great when sharing your screen to read with your student. Although Libby is better for tutoring sessions, Overdrive is better for choosing books and managing your books. It has many more tools for searching, borrowing, and downloading books.
 
-OverDrive
+![screenshot of the OverDrive website homepage](https://cdn.prod.website-files.com/6591cfa135e450f1bb1af9c9/6591cfa135e450f1bb1afbae_632a01a93b3d149ddba4dc65_1*MBHDyQt4u-NuGvuYqh-7qw.png)
+*OverDrive*
 
 Because all of the books you’ve borrowed on your library card are displayed on **both sites** it is nice to use them simultaneously.
 
@@ -83,7 +85,8 @@ Here are the links explaining how you can do this depending on the virtual class
 
 If you tutor virtually, you are likely familiar with online whiteboards. Both [Zoom](https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-for-collaboration) and [BigBlueButton](https://support.bigbluebutton.org/hc/en-us/articles/1500005316822-Use-the-multi-user-whiteboard) have built-in whiteboards with various drawing tools to make teaching a whole lot easier (and fun too!).
 
-BigBlueButton Whiteboard
+![Tutoring screen with diagram for the controls](https://cdn.prod.website-files.com/6591cfa135e450f1bb1af9c9/6591cfa135e450f1bb1afb8e_632a01a9c9f20b232d0d962b_1*UA20cwHu5uvfwTCyIeSDbg.png)
+*BigBlueButton Whiteboard*
 
 Built-in whiteboards are great for any age, but the particular tips below are good for younger students who need support with reading, so feel free to skip this part if your student is fully capable of reading.
 
@@ -109,6 +112,10 @@ Either use the whiteboard to draw a “store” or you can find an image online.
 However you choose to do it, I’d suggest leaving a space blank for calculations. My student and I made “receipts” where we’d type up the amount for each item the customer “bought” and add them up.
 
 My student and I have done this many times! Here is an example of one we did recently.
+
+![Math game on the whiteboard](https://cdn.prod.website-files.com/6591cfa135e450f1bb1af9c9/6591cfa135e450f1bb1afb9f_632a01a9212410782fe69a98_0*FRXOg1lAtVonibpj.png)
+
+![Math game on the whiteboard](https://cdn.prod.website-files.com/6591cfa135e450f1bb1af9c9/6591cfa135e450f1bb1afb9f_632a01a9212410782fe69a98_0*FRXOg1lAtVonibpj.png)
 
 *Game Suggestion #2: Fractions — “Pizza Parlor”*
 

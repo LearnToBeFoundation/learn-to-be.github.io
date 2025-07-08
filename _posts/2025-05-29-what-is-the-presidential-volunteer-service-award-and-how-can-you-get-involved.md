@@ -9,7 +9,6 @@ author: Dan Solt
 excerpt: "The Presidential Volunteer Service Award (PVSA) celebrates volunteers who help others. Learn To Be is proud to be a PVSA Certifying Organization."
 toc: true
 ---
-
 ***PVSA Temporarily Paused: ****As of May 27, 2025, the PVSA program is paused due to federal funding cuts to AmeriCorps. This means Learn To Be cannot currently process or distribute awards. This is outside of our control, but we’re ready to issue awards as soon as the program resumes. Thank you for your service and understanding.*
 
 -----
@@ -25,7 +24,7 @@ To qualify for the PVSA, you must meet the hour and service requirements. The PV
 
 Here is a breakdown of how many hours you need to volunteer in order to receive a PVSA depending on your age:
 
-‍
+![Chart showing hours required in each age group to earn awards](https://cdn.prod.website-files.com/6591cfa135e450f1bb1af9c9/66e1c345f2ccaea3eeb49a2a_6594e0c83eefb52c0b523de2_Screenshot%25202024-01-02%2520at%25208.21.13%25E2%2580%25AFPM.png)
 
 Tracking every hour you spend volunteering is necessary to qualify for the reward. Other organizations may supply you with an hours tracking sheet or you can find a template to help you here. Once you have completed the volunteer hours, submit them to your PVSA organization. The organization will review and verify the hours before submitting them to the PVSA. At Learn To Be, we make this task easy by tracking and monitoring hours in your tutoring account.
 
