@@ -118,4 +118,12 @@ The path to academic excellence doesn't start with advanced concepts or creative
 
 ---
 
+## Experience the Power of Evidence-Based Learning
+
+Whether you're a student struggling with foundational skills or someone passionate about helping others succeed, Learn To Be offers opportunities to experience the transformative power of automaticity and evidence-based learning.
+
+**For Students:** If you need help building strong foundational skills in math, reading, or other subjects, [apply for free tutoring](https://www.learntobe.org/student_applications/new). Our tutors use these proven methods to help you develop automaticity and confidence in your learning.
+
+**For Tutors:** Join our team of volunteer tutors and learn to apply these evidence-based principles in your own teaching. [Apply to become a tutor](https://www.learntobe.org/apply) and help students build the automatic foundational skills they need to excel.
+
 *Want to learn more about evidence-based tutoring approaches? Check out our other posts in the [tutor training series](/2025/06/08/tutor-training-part-1/) or reach out to us at [Learn To Be](https://www.learntobe.org).*

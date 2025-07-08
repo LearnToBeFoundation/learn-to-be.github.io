@@ -351,4 +351,12 @@ For the individual senior volunteer, service creates a legacy that transcends ca
 
 - Invite a friend to join you in serving others
 
+---
+
+## Start Your Volunteer Journey with Learn To Be
+
+If online tutoring resonated with you as a meaningful way to volunteer, we'd love to have you join our community of tutors. Learn To Be offers the perfect opportunity for seniors and retirees to share their knowledge and experience while making a direct impact on students' lives.
+
+**[Apply to become a Learn To Be tutor](https://www.learntobe.org/apply)** and discover the joy of helping students succeed from the comfort of your own home. No commuting required, flexible scheduling, and the satisfaction of knowing you're making a real difference in a young person's education.
+
 ‍

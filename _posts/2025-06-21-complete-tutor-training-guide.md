@@ -225,5 +225,11 @@ The goal isn't just to help students with their immediate homework or test prepa
 
 ---
 
+## Start Your Tutoring Journey
+
+Ready to put these evidence-based principles into practice? Join Learn To Be's community of volunteer tutors and make a real difference in students' lives using proven, effective teaching methods.
+
+**[Apply to become a tutor](https://www.learntobe.org/apply)** and receive comprehensive training on implementing these six core principles. You'll gain hands-on experience helping students develop deep, lasting understanding while building your own teaching expertise.
+
 *This guide represents the core of Learn To Be's evidence-based tutoring approach. For questions or additional resources, contact us at [Learn To Be](https://www.learntobe.org).*
 

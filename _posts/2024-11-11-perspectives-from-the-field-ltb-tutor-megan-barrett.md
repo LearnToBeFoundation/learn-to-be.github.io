@@ -21,4 +21,12 @@ That reaction was not unique to this little girl. Learn To Be has allowed me to 
 
 Written by Megan Barrett.
 
+---
+
+## Follow in Megan's Footsteps
+
+Inspired by Megan's rewarding experience as a Learn To Be tutor? You can create similar meaningful connections and help students achieve those "oooh now I get it!" moments.
+
+**[Apply to become a tutor](https://www.learntobe.org/apply)** and join our community of dedicated volunteers who are making a real difference in students' academic lives. Whether you're a graduate student like Megan or someone with knowledge to share, we provide the training and support you need to succeed.
+
 ‍

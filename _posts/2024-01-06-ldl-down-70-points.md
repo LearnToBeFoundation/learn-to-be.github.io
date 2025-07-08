@@ -139,3 +139,15 @@ whether LDL stays low once I re-introduce moderate sat-fat.
 ---
 
 *Questions?* Email **neeraj.kapoor@learntobe.org**—always happy to chat.
+
+---
+
+## Get Involved with Learn To Be
+
+Whether you're looking to improve your own learning journey or help others achieve their academic goals, Learn To Be offers opportunities for everyone:
+
+**For Students:** If you or someone you know could benefit from free, one-on-one tutoring support, [apply here](https://www.learntobe.org/student_applications/new) to get matched with a dedicated tutor.
+
+**For Tutors:** Share your knowledge and make a meaningful impact by volunteering as an online tutor. [Apply to become a tutor](https://www.learntobe.org/apply) and help students reach their full potential while gaining valuable teaching experience.
+
+Together, we can make quality education accessible to all students who need it most.

@@ -45,7 +45,14 @@ Yes! I think there could be many lessons created from this:
 You can structure a lesson in the following way:
 
 1. A tutorial of sorts. This could be some written text or a video or just a conversation. The goal is to explain the single concept.
-2. A few examples on that topic. 
-3. 7-10 problems on that topic. 
+2. A few examples on that topic.
+3. 7-10 problems on that topic.
 
+---
+
+## Put These Techniques Into Practice
+
+Ready to apply these structured tutoring methods? Join Learn To Be as a volunteer tutor and help students succeed using evidence-based teaching approaches.
+
+**[Apply to become a tutor](https://www.learntobe.org/apply)** and make a meaningful impact on students' academic journeys while developing your own teaching skills. We provide comprehensive training and ongoing support to help you implement these effective tutoring strategies.
 
