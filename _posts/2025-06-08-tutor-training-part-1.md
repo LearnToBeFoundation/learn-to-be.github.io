@@ -70,6 +70,12 @@ Engagement helps **attention**, but students can be engrossed in an activity whi
 
 ## Myth 6: “Discovery learning works for novices”
 
-This will be less relevant to you as a tutor, but it's still important to know. Some people think that students learn better when they "discover" things on their own. But this is not true. Students learn better when they are taught directly. This is called "direct instruction". You teach the child directly what they need to know. One way in which you can do this is via the "I do, we do, you do" method. 
+This will be less relevant to you as a tutor, but it's still important to know. Some people think that students learn better when they "discover" things on their own. But this is not true. Students learn better when they are taught directly. This is called "direct instruction". You teach the child directly what they need to know. One way in which you can do this is via the "I do, we do, you do" method.
 
 ---
+
+## Ready to Apply These Principles?
+
+Now that you understand these fundamental learning myths, you're better equipped to provide effective tutoring. If you're passionate about education and want to make a real difference in students' lives, consider joining our team of volunteer tutors.
+
+**[Apply to become a Learn To Be tutor](https://www.learntobe.org/apply)** and start using evidence-based teaching methods to help students achieve their academic goals. We provide ongoing training and support to help you become the best tutor you can be.

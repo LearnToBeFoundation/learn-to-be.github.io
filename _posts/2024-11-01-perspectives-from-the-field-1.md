@@ -27,4 +27,12 @@ They followed up by saying that kids will be able to learn numbers and letters f
 
 Written by Natasha Batalha.
 
+---
+
+## Join Our Mission
+
+Inspired by Natasha's story? You can make a similar impact by becoming a Learn To Be tutor. We're looking for dedicated volunteers who want to provide personalized, one-on-one tutoring to students who need it most.
+
+**Ready to make a difference?** [Apply to become a tutor](https://www.learntobe.org/apply) and help bridge the educational gap for underserved students. Your knowledge and passion can transform a student's academic journey, just like Natasha has done.
+
 ‍
