@@ -23,9 +23,9 @@ Regardless of whether you choose to implement some or all of my suggestions, mak
 
 ‍
 
-#### BEFORE THE SESSION:
+## BEFORE THE SESSION:
 
-##### 1. Get to Know your Student through their Parent/Guardian (and maybe even their teacher!)
+### 1. Get to Know your Student through their Parent/Guardian (and maybe even their teacher!)
 
 The best way to learn about your new student’s personality and tutoring needs is to speak to the people in their life every day; namely, a parent or guardian. Having a phone call or online meeting will enable you to 1) ask all of your questions and 2) start forming a relationship with your student’s family, both of which will be invaluable to you as you continue on in your tutoring journey. If you’re not sure what to discuss, here are some examples of useful introductory questions to ask:
 
@@ -41,7 +41,7 @@ The best way to learn about your new student’s personality and tutoring needs 
 
 If their guardian is willing to connect you with a teacher and that teacher is open to speaking with you, count yourself incredibly lucky! This is your opportunity to get more in-depth details on your student’s knowledge of the tutoring subject and what you should focus on to help your student thrive at school and beyond.
 
-##### 2. Have Backup Plans in Place
+### 2. Have Backup Plans in Place
 
 Based on your conversation with your student’s guardian (and/or their teacher) and any other information you have about the student, you’ll want to go ahead and make a plan for your first session (see the following section for ideas). However, as a new tutor, it’s incredibly important that you have some materials planned as backups if it turns out that your student isn’t at the learning level that you assume they are. If they are in the fourth grade, for instance, and you’re collecting some multiplication worksheets, you’ll also want to have a few backups on hand intended for second, third, and fifth graders. If you’re working on reading, make sure to have several different books available.
 
@@ -49,9 +49,9 @@ A huge purpose of the first session is to help your student feel comfortable, an
 
 ‍
 
-#### DURING THE SESSION:
+## DURING THE SESSION:
 
-##### 1. Play icebreaker games!
+### 1. Play icebreaker games!
 
 You should set aside a few minutes every single week to simply chat with your student, but — particularly if they’re on the younger side — they may feel shy about speaking when they’re just getting to know you. An icebreaker game can never hurt to break the ice, so choose one that can be implemented virtually and make it one of the first activities that you complete with your student!
 
@@ -71,7 +71,7 @@ Charades, tic-tac-toe, 20 questions, or Pictionary can all make for great introd
 
 No matter which questions you choose to ask, make sure you intersperse them throughout the session so that your student feels less like they’re being interviewed and more as though they’re participating in a conversation.
 
-##### 2. Set goals with your student
+### 2. Set goals with your student
 
 Before you launch into academics, you want to ensure that you’re creating the right atmosphere for focused learning. I recommend asking older students — in middle school and above — to share the reason they signed up for tutoring.
 
@@ -85,7 +85,7 @@ Write down their “why” for tutoring and make a commitment to checking in on 
 
 Lastly, don’t let goal-setting get in the way of highlighting their achievements! Whenever you pull out your goals, make sure you encourage your student by helping them describe what they have learned with you over the past few weeks. Not only will they be proud of their work, but by letting them think through and describe their accomplishments on their own, you’ll be teaching them a lesson in self-confidence and motivation that will stick with them for a lifetime.
 
-##### 3. Explore the online classroom
+### 3. Explore the online classroom
 
 At this point in the pandemic, many of us are already familiar with Zoom and other virtual meeting platforms, but it can never hurt to revisit the features that you plan on using most often. If you plan to use the whiteboard feature, show them how to view it and make sure they’re able to write on it; if you are going to be sharing your screen, confirm that you both are seeing the proper screen…and so on. For younger kids, for whom this may be their first time navigating an online space on their own, having this practice time can be incredibly important. You can even try logging out and back in to make sure your student knows how to access the correct links and connect to the meeting!
 
@@ -93,7 +93,7 @@ You will save countless time by ensuring that you and your student are confident
 
 For older students, you might try teaching them slightly more advanced strategies. For instance, show them how to split their screen so that they can see you on one side and another website — possibly a worksheet, or an online activity — on the other. Or, create a shared Google Drive folder to share any learning materials that you may want to pass back and forth. The sky’s the limit!
 
-##### 4. Introduce your subject!
+### 4. Introduce your subject!
 
 The first session should be primarily focused on building a relationship with your student, whether that’s through goal-setting, ice-breaker games, casual conversations, or more. However, you’ll want to dedicate at least 10 minutes or so to introducing the subject you’ll be working on together. As I discussed earlier, you’ll want to have backup plans that you can pull from as the session progresses. You don’t have to really dive deep into the academics, but it’ll help set you up for the following week.
 

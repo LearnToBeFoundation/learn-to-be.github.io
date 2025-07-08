@@ -17,7 +17,7 @@ While tutoring online is more accessible than ever, it also comes with some new 
 
 ‍
 
-#### Math Resource: The Math Learning Center
+## Math Resource: The Math Learning Center
 
 ‍
 
@@ -33,7 +33,7 @@ The Math Learning Center provides a collection of learning tools to help tutors 
 
 ‍
 
-#### Reading Resource: Funbrain
+## Reading Resource: Funbrain
 
 ‍
 
@@ -47,7 +47,7 @@ Funbrain features a variety of interactive books, games, and videos that help ch
 
 ‍
 
-#### Writing Resources: Varsity Tutors
+## Writing Resources: Varsity Tutors
 
 ‍
 
@@ -63,7 +63,7 @@ Varsity Tutors is an online education platform that offers personalized learning
 
 ‍
 
-#### Worksheets: Education.com‍
+## Worksheets: Education.com‍
 
 Education.com is an educational website that provides a wide range of resources for students and tutors. The website provides a wide range of educational resources, including lesson plans, worksheets, games, and activities that are designed to engage students and promote learning. Our favorite features of the website include:
 
@@ -75,7 +75,7 @@ Education.com is an educational website that provides a wide range of resources 
 
 - Printable worksheets for math, science, language arts, social studies, and more!
 
-#### Quizzes: Quizlet
+## Quizzes: Quizlet
 
 ‍
 
@@ -91,7 +91,7 @@ Quizlet is the go-to website for digital flashcards. The website gives you acces
 
 ‍
 
-#### Teaching Materials: Canva
+## Teaching Materials: Canva
 
 ‍
 
@@ -109,7 +109,7 @@ Canva is an essential tool for creating fun presentations, worksheets, handouts,
 
 ‍
 
-#### Virtual Whiteboard: Ziteboard
+## Virtual Whiteboard: Ziteboard
 
 ‍
 
@@ -125,7 +125,7 @@ Ziteboard is a virtual whiteboard you can use to draw ideas and display notes du
 
 ‍
 
-#### First Session Checklist: Learn To Be
+## First Session Checklist: Learn To Be
 
 ‍
 
