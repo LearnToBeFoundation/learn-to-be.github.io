@@ -1,4 +1,5 @@
 ---
+
 layout: post
 math: true
 title: "On Truly Accessible Learning"
@@ -20,7 +21,7 @@ With Schools on Wheels, for example, Learn to Be has begun offering online tutor
 
 The core of our efforts stem from the tutors who come from all backgrounds and professions, with a shared goal — to reach out to a child, to teach, to mentor, and assist in their educational life. Interested in helping? We always need more motivated, capable volunteer tutors to help students & support the backbone of our organization.
 
-Click here to volunteer!
+Click [here](https://www.learntobe.org/apply) to volunteer!
 
 Ready. Aim. Teach.
 

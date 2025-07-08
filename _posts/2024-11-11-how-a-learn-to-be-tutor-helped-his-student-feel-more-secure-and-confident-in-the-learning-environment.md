@@ -1,4 +1,5 @@
 ---
+
 layout: post
 math: true
 title: "How a LTB tutor boosted his student's confidence "
@@ -15,11 +16,13 @@ toc: true
 
 ‍
 
+
 ## What grade levels have you tutored in?
 
 My student is 9 years old and is in the 3rd grade.
 
 ‍
+
 
 ## What subject(s) have you tutored?
 
@@ -27,20 +30,22 @@ I have tutored in English, reading, and math.
 
 ‍
 
+
 ## Tell us about your favorite moment tutoring with one of your students.
 
 My favorite moment tutoring begins with quite a rough start. My student became very frustrated at the beginning of our session and started to cry. She did not want to finish some important homework she had to do for school the next day. I tried my best to calm her down and after 45 minutes her sister came into her room and sat next to her. At this point, I was feeling quite emotional because it is upsetting to hear from any young person that they feel so unsure of their reading ability that it drives them to tears. In an attempt to distract her, I asked her sister if she wanted to hear her sister read a story. This immediately brightened her mood and stopped her tears. I watched as she read to her sister perfectly and forgot about making mistakes. My student’s excitement to read for her sister was a very happy moment because I saw her let go of her apprehension and nervousness and prove that she is capable of doing anything she tries.
 
 ‍
 
+
 ## What kind of impact has Learn To Be tutoring had on you?
 
-Tutoring with Learn To Be has taught me how easy it is to make an impact in someone’s life. I am always excited to meet my student once or sometimes twice a week. Then, when I join our Zoom meetings, seeing her smile and excitement to see me always brightens my day. This experience has taught me how important it is just to talk with my student and ask her about her day and how she feels. Many kids don’t have this opportunity to build a bond with someone who wants to support their learning and care about how they feel. While my student might not always want to work on reading or grammar, I can tell from her participation and enthusiasm that she enjoys our time together. The past three years of learning online have been extremely difficult for children and this experience has taught me how simple actions can help alleviate this stress.
+Tutoring with Learn To Be has taught me how easy it is to make an impact in someone’s life. I am always excited to meet my student once or sometimes twice a week. Then, when I join our Zoom meetings, seeing her smile and excitement to see me always brightens my day. This experience has taught me how important it is just to talk with my student and ask her about her day and how she feels. Many kids don’t have this opportunity to build a bond with someone who wants to support their learning and care about how they feel. While my student might not always want to work on reading or grammar, I can tell from her participation and enthusiasm that she enjoys our time together. The past three years of learning online have been extremely difficult for children and this experience has taught me how simple actions can help alleviate this stress. 
 
 ‍
 
 ‍
 
-Interested in earning the PVSA through Learn To Be? Consider applying to be a tutor by visiting https://learntobe.org/apply. Click here to learn more about the PVSA and how you can earn it through Learn To Be. Volunteering with Learn To Be means providing free, online tutoring to students who need it most. We hope you'll join us.
+*Interested in earning the PVSA through Learn To Be? Consider applying to be a tutor by visiting *[*https://learntobe.org/apply*](https://www.learntobe.org/apply)*. Click *[*here*](https://www.learntobe.org/blog/what-is-the-presidential-volunteer-service-award-and-how-can-you-get-involved)* to learn more about the PVSA and how you can earn it through Learn To Be. Volunteering with Learn To Be means providing free, online tutoring to students who need it most. We hope you'll join us.*
 
 ‍
