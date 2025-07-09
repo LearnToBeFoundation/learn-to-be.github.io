@@ -4,10 +4,8 @@ title: "Welcome"
 permalink: /          # makes this the root URL
 ---
 
-Hi —I’m **Neeraj**, founder of [Learn To Be](https://www.learntobe.org) and all-round
-education tinkerer. I write here about evidence-based teaching, Rails builds,
-and the odd swimming workout. New pieces drop whenever I learn something worth
-sharing.
+Welcome to the Learn To Be blog! 
+This is a space we share tips and tricks of tutoring, sweet notes left by our community and otherwise posts we think are worth sharing. Here you will find clear, actionable guides that help you structure great sessions, explore proven learning strategies, and tap into curated math and reading resources.
 
 ---
 
