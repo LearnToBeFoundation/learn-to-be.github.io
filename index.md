@@ -1,26 +1,32 @@
 ---
 layout: post          # use the normal post layout so it looks like an article
-title: "Welcome"
+title: "Welcome to Learn To Be"
 permalink: /          # makes this the root URL
 ---
 
-Welcome to the Learn To Be blog! 
-This is a space we share tips and tricks of tutoring, sweet notes left by our community and otherwise posts we think are worth sharing. Here you will find clear, actionable guides that help you structure great sessions, explore proven learning strategies, and tap into curated math and reading resources.
+# Welcome to Learn To Be
+
+Learn To Be is a nonprofit organization that provides free, online, one-on-one tutoring to students who need it most.
+
+## Our Mission
+
+We believe that every student deserves access to quality education, regardless of their circumstances. Through our platform, we connect volunteer tutors with students from underserved communities to provide personalized academic support.
+
+## Explore Our Blog
+
+Visit our [blog](/blog/) to discover:
+
+- **Tutoring Tips & Strategies** - Learn effective techniques for virtual tutoring
+- **Success Stories** - Read about the impact our tutors are making
+- **Educational Resources** - Find tools and materials to enhance learning
+- **Community Spotlights** - Meet our amazing tutors and students
+
+[**Visit the Blog →**](/blog/)
 
 ---
 
-## All articles
+## Get Involved
 
-{% comment %}=============================================================
-  Loop through every post and print them as an unordered list.
-  `relative_url` keeps links working if you later add `baseurl`.
- ============================================================== {% endcomment %}
+**Want to become a tutor?** [Apply here](https://www.learntobe.org/apply)
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>— {{ post.date | date: "%B %d, %Y" }}</small>
-    </li>
-  {% endfor %}
-</ul>
+**Need tutoring for your student?** [Request a tutor](https://www.learntobe.org/student_applications/new)
