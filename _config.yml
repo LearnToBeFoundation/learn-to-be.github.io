@@ -19,4 +19,4 @@ pandoc:
     - katex                         # KaTeX for math
     - toc                           # auto table-of-contents
     - M: 'site__baseurl=/'          # duplicate of baseurl per theme docs
-permalink: /:year/:month/:day/:title/
+permalink: /blog/:title/
