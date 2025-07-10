@@ -1,7 +1,7 @@
 ---
 layout: post          # use the normal post layout so it looks like an article
 title: "Welcome"
-permalink: /     # makes this the blog index URL (baseurl already includes /blog)
+permalink: /blog/     # makes this accessible at /blog path
 ---
 
 Welcome to the Learn To Be blog! 
