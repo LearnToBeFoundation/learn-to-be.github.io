@@ -20,3 +20,6 @@ pandoc:
     - toc                           # auto table-of-contents
     - M: 'site__baseurl=/learn-to-be.github.io/blog'  # duplicate of baseurl per theme docs
 permalink: /:title/
+
+exclude:
+  - move_assets.sh
