@@ -44,8 +44,6 @@ jobs:
       - name: Build with Jekyll
         run: |
           bundle exec jekyll build
-          chmod +x move_assets.sh
-          ./move_assets.sh
         env:
           JEKYLL_ENV: production
 
