@@ -68,16 +68,6 @@ jobs:
           ls -la _site/assets/js/ || echo "No JS directory found"
           ls -la _site/blog/assets/js/ || echo "No JS directory in target"
           
-          # Check fonts
-          echo "Font files:"
-          ls -la _site/assets/fonts/ || echo "No fonts directory found"
-          ls -la _site/blog/assets/fonts/ || echo "No fonts directory in target"
-          
-          # Check images
-          echo "Image files:"
-          ls -la _site/assets/images/ || echo "No images directory found"
-          ls -la _site/blog/assets/images/ || echo "No images directory in target"
-
       - name: Print output directory structure
         run: |
           echo "Generated _site directory structure:"

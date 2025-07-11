@@ -1,7 +1,7 @@
 title: "Learn To Be Blog"
 author: "Neeraj"
 url: "https://learntobefoundation.github.io"   # GitHub Pages base URL
-baseurl: "/learn-to-be.github.io"  # GitHub Pages repository path
+baseurl: ""  # GitHub Pages repository path
 
 theme: pandoc-markdown-jekyll-theme
 
@@ -18,6 +18,6 @@ pandoc:
     - template: '_template'
     - katex                         # KaTeX for math
     - toc                           # auto table-of-contents
-    - M: 'site__baseurl=/learn-to-be.github.io'      # duplicate of baseurl per theme docs
+    - M: 'site__baseurl=/'      # duplicate of baseurl per theme docs
 permalink: /blog/:title/
 
