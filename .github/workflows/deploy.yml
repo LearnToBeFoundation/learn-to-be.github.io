@@ -27,17 +27,30 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
-      - name: Setup Pandoc
-        uses: r-lib/actions/setup-pandoc@v2
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Cache pandoc-sidenote
+        id: cache-pandoc-sidenote
+        uses: actions/cache@v4
         with:
-          pandoc-version: '3.1.11'
+          path: ~/.local/bin/pandoc-sidenote
+          key: pandoc-sidenote-${{ runner.os }}-0.23.0
 
       - name: Install pandoc-sidenote
+        if: steps.cache-pandoc-sidenote.outputs.cache-hit != 'true'
         run: |
-          # Download pre-built pandoc-sidenote binary
-          wget -O /tmp/pandoc-sidenote https://github.com/jez/pandoc-sidenote/releases/download/0.23.0.0/pandoc-sidenote-0.23.0.0-linux-x86_64
-          chmod +x /tmp/pandoc-sidenote
-          sudo mv /tmp/pandoc-sidenote /usr/local/bin/pandoc-sidenote
+          # Build from source with caching (Stack is pre-installed on GitHub runners)
+          git clone https://github.com/jez/pandoc-sidenote.git /tmp/pandoc-sidenote
+          cd /tmp/pandoc-sidenote
+          stack build
+          mkdir -p ~/.local/bin
+          stack install --local-bin-path ~/.local/bin
+
+      - name: Add pandoc-sidenote to PATH
+        run: echo "$HOME/.local/bin" >> $GITHUB_PATH
 
       - name: Setup Pages
         id: pages
