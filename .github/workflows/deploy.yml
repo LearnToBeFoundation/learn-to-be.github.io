@@ -27,15 +27,17 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
-      - name: Install Pandoc and pandoc-sidenote
+      - name: Setup Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+        with:
+          pandoc-version: '3.1.11'
+
+      - name: Install pandoc-sidenote
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
-          # Build pandoc-sidenote from source using Stack (already installed on runner)
-          git clone https://github.com/jez/pandoc-sidenote.git /tmp/pandoc-sidenote
-          cd /tmp/pandoc-sidenote
-          stack build
-          stack install --local-bin-path /usr/local/bin
+          # Download pre-built pandoc-sidenote binary
+          wget -O /tmp/pandoc-sidenote https://github.com/jez/pandoc-sidenote/releases/download/0.23.0.0/pandoc-sidenote-0.23.0.0-linux-x86_64
+          chmod +x /tmp/pandoc-sidenote
+          sudo mv /tmp/pandoc-sidenote /usr/local/bin/pandoc-sidenote
 
       - name: Setup Pages
         id: pages
@@ -54,19 +56,6 @@ jobs:
           
           # Copy all assets recursively while preserving directory structure
           cp -r _site/assets/* _site/blog/assets/
-          
-          # Verify the copy operation for key asset types
-          echo "Verifying asset directories:"
-          
-          # Check CSS
-          echo "CSS files:"
-          ls -la _site/assets/css/ || echo "No CSS directory found"
-          ls -la _site/blog/assets/css/ || echo "No CSS directory in target"
-          
-          # Check JS
-          echo "JavaScript files:"
-          ls -la _site/assets/js/ || echo "No JS directory found"
-          ls -la _site/blog/assets/js/ || echo "No JS directory in target"
           
       - name: Print output directory structure
         run: |
