@@ -1,7 +1,7 @@
 ---
 layout: post          # use the normal post layout so it looks like an article
 title: "Welcome"
-permalink: /     # makes this accessible at /blog path
+permalink: /blog/     # makes this accessible at /blog path
 ---
 
 Welcome to the Learn To Be blog! 
